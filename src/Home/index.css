@@ -1,0 +1,14 @@
+.high {
+  min-height: 50vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input {
+  padding: 1rem 2rem;
+  width: 70%;
+}
+.font {
+  font-size: 34px;
+}
